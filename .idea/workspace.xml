@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="291ab7e9-ecaa-4649-9f0e-3eb5537cd72c" name="Default Changelist" comment="import Error Check">
-      <change afterPath="$PROJECT_DIR$/src/test/com/kkohma/study/springboot/web/HelloControllerTest.java" afterDir="false" />
+    <list default="true" id="291ab7e9-ecaa-4649-9f0e-3eb5537cd72c" name="Default Changelist" comment="Commit for Error Check">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kkohma/study/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kkohma/study/springboot/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kkohma/study/springboot/web/HelloControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/kkohma/study/springboot/web/HelloControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kkohma/study/springboot/web/HelloControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,6 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -86,6 +84,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -93,7 +93,13 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
@@ -137,7 +143,7 @@
       <module name="spring_study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kkohma.study.springboot.web.*" />
+          <option name="PATTERN" value="web.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,7 +159,7 @@
       <module name="spring_study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kkohma.study.springboot.web.*" />
+          <option name="PATTERN" value="web.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,7 +198,7 @@
       <workItem from="1630912067312" duration="141000" />
       <workItem from="1630912337678" duration="6281000" />
       <workItem from="1630934568107" duration="1937000" />
-      <workItem from="1630936951453" duration="2036000" />
+      <workItem from="1630936951453" duration="3330000" />
     </task>
     <task id="LOCAL-00001" summary="spring_study with jojoldu's book">
       <created>1630909458668</created>
@@ -243,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630937740837</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit for Error Check">
+      <created>1630939330788</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1630939330788</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +285,8 @@
     <MESSAGE value="add gitignore" />
     <MESSAGE value="add simple API" />
     <MESSAGE value="import Error Check" />
-    <option name="LAST_COMMIT_MESSAGE" value="import Error Check" />
+    <MESSAGE value="Error Check" />
+    <MESSAGE value="Commit for Error Check" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit for Error Check" />
   </component>
 </project>
