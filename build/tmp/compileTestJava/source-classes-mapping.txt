@@ -1,0 +1,4 @@
+com/kkohma/study/springboot/web/dto/HelloResponseDtoTest.java
+ com.kkohma.study.springboot.web.dto.HelloResponseDtoTest
+com/kkohma/study/springboot/web/HelloControllerTest.java
+ com.kkohma.study.springboot.web.HelloControllerTest
